@@ -23,3 +23,10 @@
 hs_err_pid*
 .idea/
 Study_Activiti.iml
+/target/
+/.classpath
+/.project
+.bpmn/
+.classpath
+.project
+.settings/
